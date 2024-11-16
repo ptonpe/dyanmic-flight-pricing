@@ -1,0 +1,13 @@
+Airline,Flight Number,Departure City,Arrival City,Departure Date,Return Date,Price,Stops,Duration,Departure Time,Arrival Time
+American,AA 1299,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 19:30,N/A,295,0,71,2024-11-23 19:30,2024-11-23 20:41
+American,AA 1228,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 20:35,N/A,295,0,73,2024-11-23 20:35,2024-11-23 21:48
+United,UA 6321,Austin-Bergstrom International Airport,George Bush Intercontinental Airport,2024-11-23 19:34,N/A,304,1,66,2024-11-23 19:34,2024-11-23 20:40
+United,UA 6116,George Bush Intercontinental Airport,Dallas Fort Worth International Airport,2024-11-23 21:37,N/A,304,1,83,2024-11-23 21:37,2024-11-23 23:00
+American,AA 2434,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 15:20,N/A,369,0,70,2024-11-23 15:20,2024-11-23 16:30
+American,AA 2912,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 18:03,N/A,369,0,73,2024-11-23 18:03,2024-11-23 19:16
+American,AA 377,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 08:16,N/A,399,0,72,2024-11-23 08:16,2024-11-23 09:28
+American,AA 552,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 10:00,N/A,399,0,72,2024-11-23 10:00,2024-11-23 11:12
+American,AA 2198,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 14:35,N/A,399,0,70,2024-11-23 14:35,2024-11-23 15:45
+American,AA 3138,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 16:45,N/A,399,0,73,2024-11-23 16:45,2024-11-23 17:58
+American,AA 1060,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 18:45,N/A,399,0,73,2024-11-23 18:45,2024-11-23 19:58
+American,AA 2563,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2024-11-23 05:01,N/A,464,0,73,2024-11-23 05:01,2024-11-23 06:14
