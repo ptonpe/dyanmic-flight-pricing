@@ -1,6 +1,9 @@
 from serpapi import GoogleSearch
 import csv
 import json
+import random
+from datetime import datetime, timedelta
+
 
 def get_flights_data(api_key, departure_id, arrival_id, outbound_date, return_date=None):
     # set up parameters for the SerpApi Google Flights API search
@@ -22,7 +25,7 @@ def get_flights_data(api_key, departure_id, arrival_id, outbound_date, return_da
     # use GoogleSearch to get flight data
     search = GoogleSearch(params)
     results = search.get_dict()
-    print(json.dumps(results, indent=2))
+    #print(json.dumps(results, indent=2))
 
     return results
 
@@ -43,10 +46,13 @@ def flight_data_to_csv(flights_data, filename='flights.csv'):
         'Return Date', 'Price', 'Stops', 'Duration', 'Departure Time', 'Arrival Time' 
     ]
 
-    # open CSV file and write data based on json response
-    with open(filename, mode='w', newline='') as file:
+    # open CSV file and write data in append mode
+    with open(filename, mode='a+', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=columns)
-        writer.writeheader()
+        # write the header only if the file is empty
+        file.seek(0)
+        if file.read(1) == '':
+            writer.writeheader()
 
         for flight_group in flights:
             for flight in flight_group.get('flights', []):
@@ -66,18 +72,25 @@ def flight_data_to_csv(flights_data, filename='flights.csv'):
 
 def flight_search():
     api_key = '89dfaa5f64904dc84f63e2823f7db1a2f7583a6b3da2cd26f0fb4cd59617a3ca'
-    
-    # Specify custom search (can change for testing)
-    departure_id = "AUS"
-    arrival_id = "DFW"
-    outbound_date = '2024-11-23'
-    return_date = '2024-12-01'
+
+    airports = ["DFW", "SEA", "JFK", "LAX", "ORD", "MIA", "BOS", "ATL", "SFO", "DEN"]
+
+    # Random airport search (can change for testing)
+    searches = []
+    for _ in range(50):
+        departure_id = random.choice(airports)
+        arrival_id = random.choice([airport for airport in airports if airport != departure_id])
+        outbound_date = (datetime.now() + timedelta(days=random.randint(1, 180))).strftime('%Y-%m-%d')
+        return_date = (datetime.now() + timedelta(days=random.randint(181, 365))).strftime('%Y-%m-%d')
+        searches.append({"departure_id": departure_id, "arrival_id": arrival_id, "outbound_date": outbound_date, "return_date": return_date})
+
 
     # Get flight details using SerpApi
-    flights_data = get_flights_data(api_key, departure_id, arrival_id, outbound_date, return_date)
+    for search in searches:
+        flights_data = get_flights_data(api_key, search["departure_id"], search["arrival_id"], search["outbound_date"], search["return_date"])
 
-    # Save flight data to CSV
-    flight_data_to_csv(flights_data)
+        # Save flight data to CSV
+        flight_data_to_csv(flights_data)
 
     print("Flight data saved to flights.csv")
 
