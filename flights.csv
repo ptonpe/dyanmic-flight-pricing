@@ -823,3 +823,424 @@ Delta,DL 5733,John F. Kennedy International Airport,Boston Logan International A
 Delta,DL 5813,John F. Kennedy International Airport,Boston Logan International Airport,2025-02-27 14:30,N/A,302,0,84,2025-02-27 14:30,2025-02-27 15:54
 Delta,DL 2639,John F. Kennedy International Airport,Boston Logan International Airport,2025-02-27 21:00,N/A,302,0,87,2025-02-27 21:00,2025-02-27 22:27
 Delta,DL 5840,John F. Kennedy International Airport,Boston Logan International Airport,2025-02-27 17:35,N/A,342,0,85,2025-02-27 17:35,2025-02-27 19:00
+United,UA 2160,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 08:00,N/A,315,0,125,2025-07-20 08:00,2025-07-20 11:05
+United,UA 1565,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 17:35,N/A,356,0,123,2025-07-20 17:35,2025-07-20 20:38
+American,AA 2078,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 06:24,N/A,357,0,121,2025-07-20 06:24,2025-07-20 09:25
+American,AA 3623,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 07:35,N/A,357,0,119,2025-07-20 07:35,2025-07-20 10:34
+American,AA 852,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 08:35,N/A,357,0,124,2025-07-20 08:35,2025-07-20 11:39
+American,AA 1523,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 09:00,N/A,357,0,119,2025-07-20 09:00,2025-07-20 11:59
+American,AA 1244,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 10:41,N/A,357,0,124,2025-07-20 10:41,2025-07-20 13:45
+American,AA 2359,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 12:53,N/A,357,0,122,2025-07-20 12:53,2025-07-20 15:55
+American,AA 1832,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 16:59,N/A,357,0,121,2025-07-20 16:59,2025-07-20 20:00
+American,AA 1322,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 18:48,N/A,357,0,122,2025-07-20 18:48,2025-07-20 21:50
+United,UA 1350,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 09:40,N/A,378,0,125,2025-07-20 09:40,2025-07-20 12:45
+United,UA 640,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 15:53,N/A,378,0,125,2025-07-20 15:53,2025-07-20 18:58
+United,UA 578,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 14:02,N/A,407,0,124,2025-07-20 14:02,2025-07-20 17:06
+American,AA 420,Denver International Airport,Dallas Fort Worth International Airport,2025-07-20 14:48,N/A,462,0,122,2025-07-20 14:48,2025-07-20 17:50
+United,UA 2610,Denver International Airport,Boston Logan International Airport,2025-08-03 23:58,N/A,461,0,242,2025-08-03 23:58,2025-08-04 06:00
+JetBlue,B6 994,Denver International Airport,Boston Logan International Airport,2025-08-03 22:20,N/A,517,0,236,2025-08-03 22:20,2025-08-04 04:16
+United,UA 558,Denver International Airport,Boston Logan International Airport,2025-08-03 08:12,N/A,526,0,242,2025-08-03 08:12,2025-08-03 14:14
+United,UA 503,Denver International Airport,Boston Logan International Airport,2025-08-03 17:50,N/A,562,0,243,2025-08-03 17:50,2025-08-03 23:53
+Southwest,WN 2437,Denver International Airport,Boston Logan International Airport,2025-08-03 11:00,N/A,572,0,235,2025-08-03 11:00,2025-08-03 16:55
+JetBlue,B6 394,Denver International Airport,Boston Logan International Airport,2025-08-03 13:35,N/A,592,0,247,2025-08-03 13:35,2025-08-03 19:42
+United,UA 597,Denver International Airport,Boston Logan International Airport,2025-08-03 13:25,N/A,595,0,243,2025-08-03 13:25,2025-08-03 19:28
+United,UA 1027,Denver International Airport,Boston Logan International Airport,2025-08-03 16:02,N/A,595,0,238,2025-08-03 16:02,2025-08-03 22:00
+United,UA 2461,Denver International Airport,Boston Logan International Airport,2025-08-03 09:46,N/A,619,0,239,2025-08-03 09:46,2025-08-03 15:45
+Delta,DL 499,Denver International Airport,Boston Logan International Airport,2025-08-03 11:40,N/A,720,0,259,2025-08-03 11:40,2025-08-03 17:59
+Delta,DL 2199,Denver International Airport,Boston Logan International Airport,2025-08-03 23:55,N/A,720,0,254,2025-08-03 23:55,2025-08-04 06:09
+American,AA 1211,Chicago O'Hare International Airport,Miami International Airport,2025-07-05 15:03,N/A,333,0,190,2025-07-05 15:03,2025-07-05 19:13
+American,AA 2323,Chicago O'Hare International Airport,Miami International Airport,2025-07-05 17:25,N/A,333,0,188,2025-07-05 17:25,2025-07-05 21:33
+American,AA 1277,Chicago O'Hare International Airport,Miami International Airport,2025-07-05 19:00,N/A,333,0,207,2025-07-05 19:00,2025-07-05 23:27
+United,UA 1857,Chicago O'Hare International Airport,Miami International Airport,2025-07-05 10:45,N/A,360,0,190,2025-07-05 10:45,2025-07-05 14:55
+American,AA 2984,Chicago O'Hare International Airport,Miami International Airport,2025-07-05 05:01,N/A,380,0,187,2025-07-05 05:01,2025-07-05 09:08
+American,AA 3304,Chicago O'Hare International Airport,Miami International Airport,2025-07-05 12:10,N/A,380,0,187,2025-07-05 12:10,2025-07-05 16:17
+Delta,DL 1178,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-05 09:30,N/A,578,1,119,2025-07-05 09:30,2025-07-05 12:29
+Delta,DL 1323,Hartsfield-Jackson Atlanta International Airport,Miami International Airport,2025-07-05 13:45,N/A,578,1,123,2025-07-05 13:45,2025-07-05 15:48
+Delta,DL 1147,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-05 11:19,N/A,608,1,120,2025-07-05 11:19,2025-07-05 14:19
+Delta,DL 1840,Hartsfield-Jackson Atlanta International Airport,Miami International Airport,2025-07-05 15:19,N/A,608,1,127,2025-07-05 15:19,2025-07-05 17:26
+United,UA 1387,Chicago O'Hare International Airport,San Francisco International Airport,2025-02-18 08:45,N/A,693,1,295,2025-02-18 08:45,2025-02-18 11:40
+United,UA 1387,San Francisco International Airport,Seattle傍acoma International Airport,2025-02-18 13:33,N/A,693,1,139,2025-02-18 13:33,2025-02-18 15:52
+Alaska,AS 413,Chicago O'Hare International Airport,Portland International Airport,2025-02-18 16:05,N/A,1125,1,279,2025-02-18 16:05,2025-02-18 18:44
+Alaska,AS 2177,Portland International Airport,Seattle傍acoma International Airport,2025-02-18 19:35,N/A,1125,1,56,2025-02-18 19:35,2025-02-18 20:31
+Alaska,AS 353,Chicago O'Hare International Airport,Seattle傍acoma International Airport,2025-02-18 17:54,N/A,1728,0,281,2025-02-18 17:54,2025-02-18 20:35
+United,UA 1571,Los Angeles International Airport,George Bush Intercontinental Airport,2025-05-22 10:15,N/A,476,1,205,2025-05-22 10:15,2025-05-22 15:40
+United,UA 1067,George Bush Intercontinental Airport,Miami International Airport,2025-05-22 17:02,N/A,476,1,160,2025-05-22 17:02,2025-05-22 20:42
+United,UA 491,Los Angeles International Airport,George Bush Intercontinental Airport,2025-05-22 00:56,N/A,491,1,202,2025-05-22 00:56,2025-05-22 06:18
+United,UA 759,George Bush Intercontinental Airport,Miami International Airport,2025-05-22 07:20,N/A,491,1,164,2025-05-22 07:20,2025-05-22 11:04
+Delta,DL 811,Los Angeles International Airport,Miami International Airport,2025-05-22 09:15,N/A,661,0,305,2025-05-22 09:15,2025-05-22 17:20
+American,AA 315,Los Angeles International Airport,Miami International Airport,2025-05-22 06:04,N/A,675,0,299,2025-05-22 06:04,2025-05-22 14:03
+American,AA 1221,Los Angeles International Airport,Miami International Airport,2025-05-22 12:25,N/A,675,0,295,2025-05-22 12:25,2025-05-22 20:20
+American,AA 2143,Los Angeles International Airport,Miami International Airport,2025-05-22 13:58,N/A,675,0,296,2025-05-22 13:58,2025-05-22 21:54
+American,AA 340,Los Angeles International Airport,Miami International Airport,2025-05-22 22:59,N/A,675,0,298,2025-05-22 22:59,2025-05-23 06:57
+American,AA 2777,Los Angeles International Airport,Miami International Airport,2025-05-22 23:51,N/A,675,0,295,2025-05-22 23:51,2025-05-23 07:46
+American,AA 345,Los Angeles International Airport,Miami International Airport,2025-05-22 08:00,N/A,866,0,296,2025-05-22 08:00,2025-05-22 15:56
+American,AA 2382,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 06:04,N/A,287,0,141,2025-03-12 06:04,2025-03-12 08:25
+United,UA 380,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 07:00,N/A,287,0,145,2025-03-12 07:00,2025-03-12 09:25
+American,AA 1106,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 07:00,N/A,287,0,148,2025-03-12 07:00,2025-03-12 09:28
+American,AA 2754,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 10:32,N/A,287,0,154,2025-03-12 10:32,2025-03-12 13:06
+United,UA 1458,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 14:35,N/A,287,0,145,2025-03-12 14:35,2025-03-12 17:00
+American,AA 2412,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 15:38,N/A,287,0,136,2025-03-12 15:38,2025-03-12 17:54
+United,UA 1415,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 16:17,N/A,287,0,145,2025-03-12 16:17,2025-03-12 18:42
+United,UA 1436,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 17:35,N/A,287,0,145,2025-03-12 17:35,2025-03-12 20:00
+American,AA 566,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 18:49,N/A,287,0,137,2025-03-12 18:49,2025-03-12 21:06
+United,UA 1214,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 20:26,N/A,287,0,145,2025-03-12 20:26,2025-03-12 22:51
+American,AA 2881,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 22:00,N/A,287,0,138,2025-03-12 22:00,2025-03-13 00:18
+American,AA 1178,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 12:50,N/A,298,0,143,2025-03-12 12:50,2025-03-12 15:13
+American,AA 2753,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,2025-03-12 17:02,N/A,298,0,139,2025-03-12 17:02,2025-03-12 19:21
+American,AA 3628,Hartsfield-Jackson Atlanta International Airport,Ronald Reagan Washington National Airport,2025-03-03 05:28,N/A,238,1,111,2025-03-03 05:28,2025-03-03 07:19
+American,AA 4366,Ronald Reagan Washington National Airport,Boston Logan International Airport,2025-03-03 07:59,N/A,238,1,96,2025-03-03 07:59,2025-03-03 09:35
+American,AA 5118,Hartsfield-Jackson Atlanta International Airport,Philadelphia International Airport,2025-03-03 18:11,N/A,238,1,129,2025-03-03 18:11,2025-03-03 20:20
+American,AA 1874,Philadelphia International Airport,Boston Logan International Airport,2025-03-03 21:15,N/A,238,1,75,2025-03-03 21:15,2025-03-03 22:30
+Delta,DL 518,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,2025-03-03 19:54,N/A,303,0,156,2025-03-03 19:54,2025-03-03 22:30
+United,UA 217,Hartsfield-Jackson Atlanta International Airport,Newark Liberty International Airport,2025-03-03 07:39,N/A,326,1,133,2025-03-03 07:39,2025-03-03 09:52
+United,UA 1864,Newark Liberty International Airport,Boston Logan International Airport,2025-03-03 10:55,N/A,326,1,70,2025-03-03 10:55,2025-03-03 12:05
+Delta,DL 865,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,2025-03-03 22:25,N/A,342,0,153,2025-03-03 22:25,2025-03-04 00:58
+Delta,DL 821,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,2025-03-03 16:10,N/A,343,0,155,2025-03-03 16:10,2025-03-03 18:45
+Delta,DL 300,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,2025-03-03 18:11,N/A,343,0,157,2025-03-03 18:11,2025-03-03 20:48
+Delta,DL 862,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,2025-03-03 11:05,N/A,383,0,154,2025-03-03 11:05,2025-03-03 13:39
+JetBlue,B6 1996,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,2025-03-03 06:00,N/A,452,0,150,2025-03-03 06:00,2025-03-03 08:30
+JetBlue,B6 896,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,2025-03-03 15:25,N/A,557,0,162,2025-03-03 15:25,2025-03-03 18:07
+JetBlue,B6 396,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,2025-03-03 10:20,N/A,592,0,165,2025-03-03 10:20,2025-03-03 13:05
+Delta,DL 415,Seattle傍acoma International Airport,John F. Kennedy International Airport,2025-08-15 11:15,N/A,627,0,361,2025-08-15 11:15,2025-08-15 20:16
+Alaska,AS 26,Seattle傍acoma International Airport,John F. Kennedy International Airport,2025-08-15 10:40,N/A,657,0,334,2025-08-15 10:40,2025-08-15 19:14
+Alaska,AS 16,Seattle傍acoma International Airport,John F. Kennedy International Airport,2025-08-15 14:20,N/A,657,0,334,2025-08-15 14:20,2025-08-15 22:54
+Alaska,AS 22,Seattle傍acoma International Airport,John F. Kennedy International Airport,2025-08-15 21:50,N/A,657,0,310,2025-08-15 21:50,2025-08-16 06:00
+Delta,DL 429,Seattle傍acoma International Airport,John F. Kennedy International Airport,2025-08-15 07:20,N/A,787,0,343,2025-08-15 07:20,2025-08-15 16:03
+JetBlue,B6 264,Seattle傍acoma International Airport,John F. Kennedy International Airport,2025-08-15 23:25,N/A,1226,0,320,2025-08-15 23:25,2025-08-16 07:45
+American,AA 327,John F. Kennedy International Airport,Charlotte Douglas International Airport,2025-03-21 14:54,N/A,197,1,131,2025-03-21 14:54,2025-03-21 17:05
+American,AA 5303,Charlotte Douglas International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-21 18:27,N/A,197,1,82,2025-03-21 18:27,2025-03-21 19:49
+American,AA 1355,John F. Kennedy International Airport,Charlotte Douglas International Airport,2025-03-21 19:30,N/A,277,1,140,2025-03-21 19:30,2025-03-21 21:50
+American,AA 1570,Charlotte Douglas International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-21 22:46,N/A,277,1,78,2025-03-21 22:46,2025-03-22 00:04
+Delta,DL 2286,John F. Kennedy International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-21 06:00,N/A,277,0,149,2025-03-21 06:00,2025-03-21 08:29
+Delta,DL 2227,John F. Kennedy International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-21 08:30,N/A,277,0,156,2025-03-21 08:30,2025-03-21 11:06
+Delta,DL 2170,John F. Kennedy International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-21 16:25,N/A,277,0,155,2025-03-21 16:25,2025-03-21 19:00
+JetBlue,B6 1719,John F. Kennedy International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-21 14:59,N/A,292,0,168,2025-03-21 14:59,2025-03-21 17:47
+JetBlue,B6 519,John F. Kennedy International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-21 06:30,N/A,372,0,161,2025-03-21 06:30,2025-03-21 09:11
+Delta,DL 2293,John F. Kennedy International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-21 18:20,N/A,417,0,161,2025-03-21 18:20,2025-03-21 21:01
+United,UA 300,Miami International Airport,San Francisco International Airport,2025-08-07 08:41,N/A,370,1,363,2025-08-07 08:41,2025-08-07 11:44
+United,UA 1754,San Francisco International Airport,Los Angeles International Airport,2025-08-07 16:10,N/A,370,1,93,2025-08-07 16:10,2025-08-07 17:43
+United,UA 2423,Miami International Airport,San Francisco International Airport,2025-08-07 18:34,N/A,370,1,363,2025-08-07 18:34,2025-08-07 21:37
+United,UA 1571,San Francisco International Airport,Los Angeles International Airport,2025-08-08 06:00,N/A,370,1,96,2025-08-08 06:00,2025-08-08 07:36
+American,AA 2290,Miami International Airport,Los Angeles International Airport,2025-08-07 19:37,N/A,425,0,328,2025-08-07 19:37,2025-08-07 22:05
+American,AA 669,Miami International Airport,Los Angeles International Airport,2025-08-07 21:30,N/A,425,0,332,2025-08-07 21:30,2025-08-08 00:02
+United,UA 434,Miami International Airport,George Bush Intercontinental Airport,2025-08-07 07:00,N/A,437,1,170,2025-08-07 07:00,2025-08-07 08:50
+United,UA 469,George Bush Intercontinental Airport,Los Angeles International Airport,2025-08-07 09:35,N/A,437,1,216,2025-08-07 09:35,2025-08-07 11:11
+American,AA 1226,Miami International Airport,Dallas Fort Worth International Airport,2025-08-07 05:18,N/A,441,1,187,2025-08-07 05:18,2025-08-07 07:25
+American,AA 1154,Dallas Fort Worth International Airport,Los Angeles International Airport,2025-08-07 08:20,N/A,441,1,202,2025-08-07 08:20,2025-08-07 09:42
+American,AA 3172,Miami International Airport,Phoenix Sky Harbor International Airport,2025-08-07 10:55,N/A,441,1,294,2025-08-07 10:55,2025-08-07 12:49
+American,AA 1362,Phoenix Sky Harbor International Airport,Los Angeles International Airport,2025-08-07 13:55,N/A,441,1,84,2025-08-07 13:55,2025-08-07 15:19
+American,AA 2982,Miami International Airport,Phoenix Sky Harbor International Airport,2025-08-07 17:50,N/A,441,1,281,2025-08-07 17:50,2025-08-07 19:31
+American,AA 3204,Phoenix Sky Harbor International Airport,Los Angeles International Airport,2025-08-07 20:29,N/A,441,1,87,2025-08-07 20:29,2025-08-07 21:56
+American,AA 713,Miami International Airport,Los Angeles International Airport,2025-08-07 07:00,N/A,464,0,321,2025-08-07 07:00,2025-08-07 09:21
+American,AA 3288,Miami International Airport,Los Angeles International Airport,2025-08-07 10:00,N/A,464,0,322,2025-08-07 10:00,2025-08-07 12:22
+American,AA 707,Seattle傍acoma International Airport,Dallas Fort Worth International Airport,2025-07-23 10:02,N/A,477,1,233,2025-07-23 10:02,2025-07-23 15:55
+American,AA 2403,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 16:35,N/A,477,1,128,2025-07-23 16:35,2025-07-23 19:43
+Delta,DL 542,Seattle傍acoma International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 13:45,N/A,477,0,305,2025-07-23 13:45,2025-07-23 21:50
+Delta,DL 560,Seattle傍acoma International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 16:00,N/A,477,0,296,2025-07-23 16:00,2025-07-23 23:56
+Delta,DL 567,Seattle傍acoma International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 21:20,N/A,477,0,295,2025-07-23 21:20,2025-07-24 05:15
+Delta,DL 652,Seattle傍acoma International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 23:35,N/A,477,0,292,2025-07-23 23:35,2025-07-24 07:27
+Alaska,AS 464,Seattle傍acoma International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 23:30,N/A,547,0,288,2025-07-23 23:30,2025-07-24 07:18
+Delta,DL 569,Seattle傍acoma International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 06:00,N/A,657,0,298,2025-07-23 06:00,2025-07-23 13:58
+Delta,DL 562,Seattle傍acoma International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 07:20,N/A,657,0,301,2025-07-23 07:20,2025-07-23 15:21
+Delta,DL 554,Seattle傍acoma International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 11:50,N/A,717,0,305,2025-07-23 11:50,2025-07-23 19:55
+American,AA 695,Dallas Fort Worth International Airport,Miami International Airport,2025-03-05 18:35,N/A,348,0,165,2025-03-05 18:35,2025-03-05 22:20
+American,AA 2642,Dallas Fort Worth International Airport,Miami International Airport,2025-03-05 19:50,N/A,348,0,167,2025-03-05 19:50,2025-03-05 23:37
+Delta,DL 839,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-05 09:59,N/A,403,1,121,2025-03-05 09:59,2025-03-05 13:00
+Delta,DL 1323,Hartsfield-Jackson Atlanta International Airport,Miami International Airport,2025-03-05 13:45,N/A,403,1,117,2025-03-05 13:45,2025-03-05 15:42
+American,AA 3055,Dallas Fort Worth International Airport,Miami International Airport,2025-03-05 06:00,N/A,440,0,165,2025-03-05 06:00,2025-03-05 09:45
+American,AA 1223,Dallas Fort Worth International Airport,Miami International Airport,2025-03-05 07:00,N/A,440,0,176,2025-03-05 07:00,2025-03-05 10:56
+American,AA 2689,Dallas Fort Worth International Airport,Miami International Airport,2025-03-05 08:40,N/A,440,0,173,2025-03-05 08:40,2025-03-05 12:33
+United,UA 2675,Dallas Fort Worth International Airport,George Bush Intercontinental Airport,2025-03-05 09:55,N/A,443,1,76,2025-03-05 09:55,2025-03-05 11:11
+United,UA 2105,George Bush Intercontinental Airport,Miami International Airport,2025-03-05 12:10,N/A,443,1,156,2025-03-05 12:10,2025-03-05 15:46
+United,UA 2682,Dallas Fort Worth International Airport,George Bush Intercontinental Airport,2025-03-05 15:50,N/A,443,1,76,2025-03-05 15:50,2025-03-05 17:06
+United,UA 2230,George Bush Intercontinental Airport,Miami International Airport,2025-03-05 18:05,N/A,443,1,156,2025-03-05 18:05,2025-03-05 21:41
+American,AA 469,Dallas Fort Worth International Airport,Miami International Airport,2025-03-05 10:20,N/A,490,0,180,2025-03-05 10:20,2025-03-05 14:20
+American,AA 757,Dallas Fort Worth International Airport,Miami International Airport,2025-03-05 12:36,N/A,490,0,174,2025-03-05 12:36,2025-03-05 16:30
+American,AA 1167,Dallas Fort Worth International Airport,Miami International Airport,2025-03-05 14:39,N/A,490,0,169,2025-03-05 14:39,2025-03-05 18:28
+American,AA 1922,Miami International Airport,John F. Kennedy International Airport,2025-05-15 18:00,N/A,217,0,180,2025-05-15 18:00,2025-05-15 21:00
+American,AA 2026,Miami International Airport,John F. Kennedy International Airport,2025-05-15 14:31,N/A,237,0,178,2025-05-15 14:31,2025-05-15 17:29
+American,AA 1357,Miami International Airport,John F. Kennedy International Airport,2025-05-15 19:53,N/A,237,0,186,2025-05-15 19:53,2025-05-15 22:59
+American,AA 797,Miami International Airport,John F. Kennedy International Airport,2025-05-15 08:31,N/A,257,0,191,2025-05-15 08:31,2025-05-15 11:42
+American,AA 642,Miami International Airport,John F. Kennedy International Airport,2025-05-15 13:06,N/A,282,0,180,2025-05-15 13:06,2025-05-15 16:06
+Delta,DL 2428,Miami International Airport,John F. Kennedy International Airport,2025-05-15 07:30,N/A,322,0,179,2025-05-15 07:30,2025-05-15 10:29
+Delta,DL 1438,Miami International Airport,John F. Kennedy International Airport,2025-05-15 19:30,N/A,322,0,195,2025-05-15 19:30,2025-05-15 22:45
+Delta,DL 1528,Miami International Airport,John F. Kennedy International Airport,2025-05-15 11:35,N/A,357,0,192,2025-05-15 11:35,2025-05-15 14:47
+Delta,DL 1514,Miami International Airport,John F. Kennedy International Airport,2025-05-15 15:35,N/A,357,0,204,2025-05-15 15:35,2025-05-15 18:59
+JetBlue,B6 2292,Miami International Airport,John F. Kennedy International Airport,2025-05-15 06:00,N/A,415,0,180,2025-05-15 06:00,2025-05-15 09:00
+JetBlue,B6 2592,Miami International Airport,John F. Kennedy International Airport,2025-05-15 14:01,N/A,435,0,180,2025-05-15 14:01,2025-05-15 17:01
+Alaska,AS 548,Boston Logan International Airport,San Francisco International Airport,2025-05-29 19:59,N/A,253,0,405,2025-05-29 19:59,2025-05-29 23:44
+United,UA 2441,Boston Logan International Airport,San Francisco International Airport,2025-05-29 06:00,N/A,253,0,388,2025-05-29 06:00,2025-05-29 09:28
+United,UA 1482,Boston Logan International Airport,San Francisco International Airport,2025-05-29 11:00,N/A,253,0,391,2025-05-29 11:00,2025-05-29 14:31
+United,UA 1074,Boston Logan International Airport,San Francisco International Airport,2025-05-29 14:00,N/A,253,0,391,2025-05-29 14:00,2025-05-29 17:31
+United,UA 2400,Boston Logan International Airport,San Francisco International Airport,2025-05-29 18:11,N/A,253,0,396,2025-05-29 18:11,2025-05-29 21:47
+Delta,DL 475,Boston Logan International Airport,San Francisco International Airport,2025-05-29 20:00,N/A,253,0,419,2025-05-29 20:00,2025-05-29 23:59
+JetBlue,B6 333,Boston Logan International Airport,San Francisco International Airport,2025-05-29 20:35,N/A,317,0,405,2025-05-29 20:35,2025-05-30 00:20
+JetBlue,B6 1333,Boston Logan International Airport,San Francisco International Airport,2025-05-29 06:15,N/A,322,0,396,2025-05-29 06:15,2025-05-29 09:51
+JetBlue,B6 233,Boston Logan International Airport,San Francisco International Airport,2025-05-29 15:50,N/A,362,0,409,2025-05-29 15:50,2025-05-29 19:39
+Delta,DL 1655,Boston Logan International Airport,San Francisco International Airport,2025-05-29 16:30,N/A,378,0,419,2025-05-29 16:30,2025-05-29 20:29
+JetBlue,B6 1833,Boston Logan International Airport,San Francisco International Airport,2025-05-29 07:25,N/A,412,0,392,2025-05-29 07:25,2025-05-29 10:57
+JetBlue,B6 733,Boston Logan International Airport,San Francisco International Airport,2025-05-29 17:10,N/A,412,0,409,2025-05-29 17:10,2025-05-29 20:59
+United,UA 1449,San Francisco International Airport,Boston Logan International Airport,2025-06-20 11:02,N/A,444,0,351,2025-06-20 11:02,2025-06-20 19:53
+United,UA 1372,San Francisco International Airport,Boston Logan International Airport,2025-06-20 13:00,N/A,444,0,344,2025-06-20 13:00,2025-06-20 21:44
+United,UA 796,San Francisco International Airport,Boston Logan International Airport,2025-06-20 21:20,N/A,444,0,344,2025-06-20 21:20,2025-06-21 06:04
+United,UA 1665,San Francisco International Airport,Boston Logan International Airport,2025-06-20 23:20,N/A,444,0,348,2025-06-20 23:20,2025-06-21 08:08
+JetBlue,B6 734,San Francisco International Airport,Boston Logan International Airport,2025-06-20 13:30,N/A,528,0,344,2025-06-20 13:30,2025-06-20 22:14
+JetBlue,B6 134,San Francisco International Airport,Boston Logan International Airport,2025-06-20 22:10,N/A,528,0,338,2025-06-20 22:10,2025-06-21 06:48
+Delta,DL 977,San Francisco International Airport,Boston Logan International Airport,2025-06-20 13:00,N/A,565,0,357,2025-06-20 13:00,2025-06-20 21:57
+Delta,DL 1655,San Francisco International Airport,Boston Logan International Airport,2025-06-20 21:55,N/A,568,0,353,2025-06-20 21:55,2025-06-21 06:48
+JetBlue,B6 434,San Francisco International Airport,Boston Logan International Airport,2025-06-20 06:05,N/A,571,0,345,2025-06-20 06:05,2025-06-20 14:50
+JetBlue,B6 1734,San Francisco International Airport,Boston Logan International Airport,2025-06-20 08:15,N/A,626,0,345,2025-06-20 08:15,2025-06-20 17:00
+Delta,DL 400,San Francisco International Airport,Boston Logan International Airport,2025-06-20 07:00,N/A,688,0,357,2025-06-20 07:00,2025-06-20 15:57
+JetBlue,B6 834,San Francisco International Airport,Boston Logan International Airport,2025-06-20 10:55,N/A,701,0,349,2025-06-20 10:55,2025-06-20 19:44
+American,AA 1509,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 07:00,N/A,483,0,190,2025-04-22 07:00,2025-04-22 09:10
+Delta,DL 2570,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 07:30,N/A,563,0,180,2025-04-22 07:30,2025-04-22 09:30
+Delta,DL 2646,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 16:59,N/A,563,0,186,2025-04-22 16:59,2025-04-22 19:05
+American,AA 2976,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 13:47,N/A,573,0,176,2025-04-22 13:47,2025-04-22 15:43
+American,AA 3711,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 17:30,N/A,573,0,185,2025-04-22 17:30,2025-04-22 19:35
+American,AA 4785,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 19:07,N/A,573,0,187,2025-04-22 19:07,2025-04-22 21:14
+United,UA 2251,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 07:43,N/A,646,0,177,2025-04-22 07:43,2025-04-22 09:40
+United,UA 378,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 09:30,N/A,827,0,177,2025-04-22 09:30,2025-04-22 11:27
+United,UA 1688,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 10:48,N/A,827,0,177,2025-04-22 10:48,2025-04-22 12:45
+United,UA 1732,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 12:25,N/A,827,0,177,2025-04-22 12:25,2025-04-22 14:22
+JetBlue,B6 611,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 16:00,N/A,847,0,187,2025-04-22 16:00,2025-04-22 18:07
+Delta,DL 5603,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 10:40,N/A,1083,0,175,2025-04-22 10:40,2025-04-22 12:35
+United,UA 2040,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 16:45,N/A,1189,0,177,2025-04-22 16:45,2025-04-22 18:42
+American,AA 4486,Boston Logan International Airport,Chicago O'Hare International Airport,2025-04-22 11:19,N/A,2497,0,180,2025-04-22 11:19,2025-04-22 13:19
+Delta,DL 2982,Denver International Airport,Minneapolis亡aint Paul International Airport,2025-05-22 09:00,N/A,592,1,120,2025-05-22 09:00,2025-05-22 12:00
+Delta,DL 2661,Minneapolis亡aint Paul International Airport,John F. Kennedy International Airport,2025-05-22 13:00,N/A,592,1,183,2025-05-22 13:00,2025-05-22 17:03
+Delta,DL 706,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,2025-05-22 13:45,N/A,592,1,180,2025-05-22 13:45,2025-05-22 18:45
+Delta,DL 2378,Hartsfield-Jackson Atlanta International Airport,John F. Kennedy International Airport,2025-05-22 19:45,N/A,592,1,155,2025-05-22 19:45,2025-05-22 22:20
+American,AA 2878,Denver International Airport,Charlotte Douglas International Airport,2025-05-22 23:59,N/A,722,1,201,2025-05-22 23:59,2025-05-23 05:20
+American,AA 493,Charlotte Douglas International Airport,John F. Kennedy International Airport,2025-05-23 08:07,N/A,722,1,113,2025-05-23 08:07,2025-05-23 10:00
+Delta,DL 2650,Denver International Airport,Detroit Metropolitan Wayne County Airport,2025-05-22 15:50,N/A,722,1,175,2025-05-22 15:50,2025-05-22 20:45
+Delta,DL 5413,Detroit Metropolitan Wayne County Airport,John F. Kennedy International Airport,2025-05-22 21:20,N/A,722,1,117,2025-05-22 21:20,2025-05-22 23:17
+American,AA 2630,Denver International Airport,Chicago O'Hare International Airport,2025-05-22 12:19,N/A,807,1,152,2025-05-22 12:19,2025-05-22 15:51
+American,AA 696,Chicago O'Hare International Airport,John F. Kennedy International Airport,2025-05-22 16:44,N/A,807,1,136,2025-05-22 16:44,2025-05-22 20:00
+American,AA 2757,Los Angeles International Airport,Chicago O'Hare International Airport,2025-07-21 23:56,N/A,308,1,254,2025-07-21 23:56,2025-07-22 06:10
+American,AA 648,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-22 06:45,N/A,308,1,140,2025-07-22 06:45,2025-07-22 10:05
+United,UA 405,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 13:15,N/A,336,0,338,2025-07-21 13:15,2025-07-21 21:53
+American,AA 382,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 15:00,N/A,349,0,332,2025-07-21 15:00,2025-07-21 23:32
+American,AA 12,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 08:00,N/A,408,0,336,2025-07-21 08:00,2025-07-21 16:36
+American,AA 2110,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 11:10,N/A,408,0,341,2025-07-21 11:10,2025-07-21 19:51
+Delta,DL 2130,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 10:25,N/A,418,0,359,2025-07-21 10:25,2025-07-21 19:24
+Delta,DL 507,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 21:20,N/A,418,0,346,2025-07-21 21:20,2025-07-22 06:06
+United,UA 1783,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 08:35,N/A,431,0,343,2025-07-21 08:35,2025-07-21 17:18
+JetBlue,B6 888,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 06:00,N/A,502,0,340,2025-07-21 06:00,2025-07-21 14:40
+JetBlue,B6 1488,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 15:55,N/A,502,0,338,2025-07-21 15:55,2025-07-22 00:33
+JetBlue,B6 988,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 21:45,N/A,502,0,340,2025-07-21 21:45,2025-07-22 06:25
+JetBlue,B6 288,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 07:10,N/A,531,0,345,2025-07-21 07:10,2025-07-21 15:55
+JetBlue,B6 1388,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 13:15,N/A,531,0,342,2025-07-21 13:15,2025-07-21 21:57
+JetBlue,B6 188,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 11:25,N/A,564,0,344,2025-07-21 11:25,2025-07-21 20:09
+Delta,DL 639,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 07:00,N/A,573,0,352,2025-07-21 07:00,2025-07-21 15:52
+Delta,DL 437,Los Angeles International Airport,Boston Logan International Airport,2025-07-21 15:25,N/A,573,0,345,2025-07-21 15:25,2025-07-22 00:10
+United,UA 1377,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 06:00,N/A,245,0,161,2025-07-07 06:00,2025-07-07 09:41
+United,UA 2258,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 19:00,N/A,245,0,154,2025-07-07 19:00,2025-07-07 22:34
+American,AA 3164,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 14:17,N/A,265,0,163,2025-07-07 14:17,2025-07-07 18:00
+American,AA 2363,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 17:30,N/A,265,0,157,2025-07-07 17:30,2025-07-07 21:07
+American,AA 1464,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 12:31,N/A,306,0,154,2025-07-07 12:31,2025-07-07 16:05
+United,UA 1811,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 07:45,N/A,327,0,155,2025-07-07 07:45,2025-07-07 11:20
+United,UA 2200,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 16:17,N/A,331,0,163,2025-07-07 16:17,2025-07-07 20:00
+United,UA 2348,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 14:45,N/A,337,0,160,2025-07-07 14:45,2025-07-07 18:25
+United,UA 1898,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 17:20,N/A,341,0,165,2025-07-07 17:20,2025-07-07 21:05
+Southwest,WN 2686,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 13:15,N/A,388,0,150,2025-07-07 13:15,2025-07-07 16:45
+United,UA 2865,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 11:25,N/A,400,0,160,2025-07-07 11:25,2025-07-07 15:05
+Southwest,WN 3343,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 10:30,N/A,403,0,150,2025-07-07 10:30,2025-07-07 14:00
+Southwest,WN 1438,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 19:30,N/A,403,0,155,2025-07-07 19:30,2025-07-07 23:05
+United,UA 617,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 13:25,N/A,419,0,160,2025-07-07 13:25,2025-07-07 17:05
+United,UA 2329,Denver International Airport,Chicago O'Hare International Airport,2025-07-07 09:40,N/A,461,0,160,2025-07-07 09:40,2025-07-07 13:20
+American,AA 3039,Miami International Airport,Denver International Airport,2025-03-12 16:13,N/A,374,0,270,2025-03-12 16:13,2025-03-12 18:43
+American,AA 1639,Miami International Airport,Denver International Airport,2025-03-12 20:46,N/A,374,0,291,2025-03-12 20:46,2025-03-12 23:37
+Delta,DL 1211,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-12 07:10,N/A,394,1,124,2025-03-12 07:10,2025-03-12 09:14
+Delta,DL 2181,Hartsfield-Jackson Atlanta International Airport,Denver International Airport,2025-03-12 09:50,N/A,394,1,205,2025-03-12 09:50,2025-03-12 11:15
+United,UA 279,Miami International Airport,Denver International Airport,2025-03-12 11:35,N/A,409,0,281,2025-03-12 11:35,2025-03-12 14:16
+United,UA 2644,Miami International Airport,Denver International Airport,2025-03-12 15:30,N/A,409,0,280,2025-03-12 15:30,2025-03-12 18:10
+United,UA 2299,Miami International Airport,Denver International Airport,2025-03-12 21:05,N/A,409,0,281,2025-03-12 21:05,2025-03-12 23:46
+Delta,DL 390,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-11 06:00,N/A,449,0,253,2025-03-11 06:00,2025-03-11 13:13
+Delta,DL 528,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-11 11:00,N/A,449,0,253,2025-03-11 11:00,2025-03-11 18:13
+Delta,DL 446,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-11 13:30,N/A,449,0,244,2025-03-11 13:30,2025-03-11 20:34
+Delta,DL 715,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-11 14:30,N/A,449,0,253,2025-03-11 14:30,2025-03-11 21:43
+Delta,DL 395,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-11 17:40,N/A,449,0,248,2025-03-11 17:40,2025-03-12 00:48
+Delta,DL 471,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-11 21:55,N/A,449,0,250,2025-03-11 21:55,2025-03-12 05:05
+Delta,DL 320,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-11 23:59,N/A,449,0,253,2025-03-11 23:59,2025-03-12 07:12
+American,AA 654,John F. Kennedy International Airport,Dallas Fort Worth International Airport,2025-03-11 14:35,N/A,239,0,254,2025-03-11 14:35,2025-03-11 17:49
+American,AA 1274,John F. Kennedy International Airport,Dallas Fort Worth International Airport,2025-03-11 15:59,N/A,239,0,254,2025-03-11 15:59,2025-03-11 19:13
+Delta,DL 496,John F. Kennedy International Airport,Dallas Fort Worth International Airport,2025-03-11 17:50,N/A,258,0,249,2025-03-11 17:50,2025-03-11 20:59
+American,AA 1355,John F. Kennedy International Airport,Charlotte Douglas International Airport,2025-03-11 19:30,N/A,288,1,140,2025-03-11 19:30,2025-03-11 21:50
+American,AA 522,Charlotte Douglas International Airport,Dallas Fort Worth International Airport,2025-03-11 22:36,N/A,288,1,182,2025-03-11 22:36,2025-03-12 00:38
+Delta,DL 2293,John F. Kennedy International Airport,Hartsfield-Jackson Atlanta International Airport,2025-03-11 18:20,N/A,358,1,161,2025-03-11 18:20,2025-03-11 21:01
+Delta,DL 818,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,2025-03-11 22:49,N/A,358,1,147,2025-03-11 22:49,2025-03-12 00:16
+Delta,DL 1211,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,2025-02-27 07:00,N/A,582,1,120,2025-02-27 07:00,2025-02-27 09:00
+Delta,DL 774,Hartsfield-Jackson Atlanta International Airport,Seattle傍acoma International Airport,2025-02-27 09:45,N/A,582,1,346,2025-02-27 09:45,2025-02-27 12:31
+Delta,DL 1261,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,2025-02-27 08:10,N/A,582,1,123,2025-02-27 08:10,2025-02-27 10:13
+Delta,DL 629,Hartsfield-Jackson Atlanta International Airport,Seattle傍acoma International Airport,2025-02-27 11:38,N/A,582,1,340,2025-02-27 11:38,2025-02-27 14:18
+American,AA 1226,Miami International Airport,Dallas Fort Worth International Airport,2025-02-27 05:18,N/A,623,1,203,2025-02-27 05:18,2025-02-27 07:41
+American,AA 2767,Dallas Fort Worth International Airport,Seattle傍acoma International Airport,2025-02-27 08:26,N/A,623,1,278,2025-02-27 08:26,2025-02-27 11:04
+American,AA 581,Miami International Airport,Chicago O'Hare International Airport,2025-02-27 06:35,N/A,623,1,207,2025-02-27 06:35,2025-02-27 09:02
+American,AA 2398,Chicago O'Hare International Airport,Seattle傍acoma International Airport,2025-02-27 10:00,N/A,623,1,283,2025-02-27 10:00,2025-02-27 12:43
+American,AA 2575,Miami International Airport,Dallas Fort Worth International Airport,2025-02-27 07:00,N/A,623,1,199,2025-02-27 07:00,2025-02-27 09:19
+American,AA 1992,Dallas Fort Worth International Airport,Seattle傍acoma International Airport,2025-02-27 10:25,N/A,623,1,280,2025-02-27 10:25,2025-02-27 13:05
+American,AA 843,Miami International Airport,Dallas Fort Worth International Airport,2025-02-27 09:17,N/A,623,1,202,2025-02-27 09:17,2025-02-27 11:39
+American,AA 2405,Dallas Fort Worth International Airport,Seattle傍acoma International Airport,2025-02-27 12:19,N/A,623,1,268,2025-02-27 12:19,2025-02-27 14:47
+American,AA 1277,Chicago O'Hare International Airport,Miami International Airport,2025-05-08 19:16,N/A,285,0,196,2025-05-08 19:16,2025-05-08 23:32
+American,AA 1135,Chicago O'Hare International Airport,Miami International Airport,2025-05-08 15:15,N/A,296,0,190,2025-05-08 15:15,2025-05-08 19:25
+American,AA 1565,Chicago O'Hare International Airport,Miami International Airport,2025-05-08 11:44,N/A,306,0,192,2025-05-08 11:44,2025-05-08 15:56
+American,AA 3304,Chicago O'Hare International Airport,Miami International Airport,2025-05-08 13:18,N/A,306,0,193,2025-05-08 13:18,2025-05-08 17:31
+American,AA 2323,Chicago O'Hare International Airport,Miami International Airport,2025-05-08 17:10,N/A,306,0,188,2025-05-08 17:10,2025-05-08 21:18
+American,AA 3056,Chicago O'Hare International Airport,Miami International Airport,2025-05-08 09:55,N/A,333,0,191,2025-05-08 09:55,2025-05-08 14:06
+United,UA 1857,Chicago O'Hare International Airport,Miami International Airport,2025-05-08 10:37,N/A,367,0,199,2025-05-08 10:37,2025-05-08 14:56
+American,AA 1411,Chicago O'Hare International Airport,Miami International Airport,2025-05-08 06:51,N/A,380,0,189,2025-05-08 06:51,2025-05-08 11:00
+United,UA 1032,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 15:18,N/A,289,0,172,2025-06-26 15:18,2025-06-26 17:10
+United,UA 2040,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 16:30,N/A,321,0,173,2025-06-26 16:30,2025-06-26 18:23
+American,AA 3324,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 05:30,N/A,333,0,175,2025-06-26 05:30,2025-06-26 07:25
+American,AA 1509,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 07:10,N/A,333,0,175,2025-06-26 07:10,2025-06-26 09:05
+American,AA 1239,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 09:10,N/A,333,0,175,2025-06-26 09:10,2025-06-26 11:05
+American,AA 598,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 10:48,N/A,333,0,172,2025-06-26 10:48,2025-06-26 12:40
+American,AA 547,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 12:17,N/A,333,0,178,2025-06-26 12:17,2025-06-26 14:15
+American,AA 3309,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 14:07,N/A,333,0,178,2025-06-26 14:07,2025-06-26 16:05
+American,AA 2837,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 17:35,N/A,333,0,177,2025-06-26 17:35,2025-06-26 19:32
+American,AA 3233,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 19:19,N/A,333,0,176,2025-06-26 19:19,2025-06-26 21:15
+American,AA 3711,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 15:50,N/A,342,0,180,2025-06-26 15:50,2025-06-26 17:50
+Delta,DL 2570,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 07:00,N/A,358,0,179,2025-06-26 07:00,2025-06-26 08:59
+Delta,DL 2679,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 11:00,N/A,358,0,173,2025-06-26 11:00,2025-06-26 12:53
+JetBlue,B6 811,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 15:00,N/A,387,0,176,2025-06-26 15:00,2025-06-26 16:56
+United,UA 1015,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 18:04,N/A,433,0,177,2025-06-26 18:04,2025-06-26 20:01
+Delta,DL 2646,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 15:50,N/A,438,0,175,2025-06-26 15:50,2025-06-26 17:45
+Delta,DL 2676,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 20:10,N/A,438,0,180,2025-06-26 20:10,2025-06-26 22:10
+United,UA 2299,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 10:40,N/A,440,0,171,2025-06-26 10:40,2025-06-26 12:31
+United,UA 1732,Boston Logan International Airport,Chicago O'Hare International Airport,2025-06-26 12:02,N/A,440,0,171,2025-06-26 12:02,2025-06-26 13:53
+American,AA 1366,Dallas Fort Worth International Airport,Boston Logan International Airport,2025-06-10 18:30,N/A,314,0,227,2025-06-10 18:30,2025-06-10 23:17
+American,AA 1401,Dallas Fort Worth International Airport,Boston Logan International Airport,2025-06-10 12:19,N/A,351,0,232,2025-06-10 12:19,2025-06-10 17:11
+American,AA 1048,Dallas Fort Worth International Airport,Boston Logan International Airport,2025-06-10 14:25,N/A,351,0,224,2025-06-10 14:25,2025-06-10 19:09
+American,AA 2306,Dallas Fort Worth International Airport,Boston Logan International Airport,2025-06-10 16:35,N/A,351,0,234,2025-06-10 16:35,2025-06-10 21:29
+American,AA 1438,Dallas Fort Worth International Airport,Boston Logan International Airport,2025-06-10 07:00,N/A,372,0,228,2025-06-10 07:00,2025-06-10 11:48
+American,AA 3102,Dallas Fort Worth International Airport,Boston Logan International Airport,2025-06-10 10:04,N/A,372,0,241,2025-06-10 10:04,2025-06-10 15:05
+American,AA 1206,Dallas Fort Worth International Airport,Boston Logan International Airport,2025-06-10 08:11,N/A,391,0,226,2025-06-10 08:11,2025-06-10 12:57
+JetBlue,B6 714,Dallas Fort Worth International Airport,Boston Logan International Airport,2025-06-10 14:58,N/A,442,0,227,2025-06-10 14:58,2025-06-10 19:45
+American,AA 1766,John F. Kennedy International Airport,Dallas Fort Worth International Airport,2025-04-27 14:30,N/A,334,0,239,2025-04-27 14:30,2025-04-27 17:29
+Delta,DL 496,John F. Kennedy International Airport,Dallas Fort Worth International Airport,2025-04-27 17:50,N/A,334,0,256,2025-04-27 17:50,2025-04-27 21:06
+American,AA 1528,John F. Kennedy International Airport,Austin-Bergstrom International Airport,2025-04-27 11:00,N/A,478,1,252,2025-04-27 11:00,2025-04-27 14:12
+American,AA 2198,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,2025-04-27 15:02,N/A,478,1,72,2025-04-27 15:02,2025-04-27 16:14
+American,AA 495,John F. Kennedy International Airport,Charlotte Douglas International Airport,2025-04-27 11:57,N/A,478,1,120,2025-04-27 11:57,2025-04-27 13:57
+American,AA 1709,Charlotte Douglas International Airport,Dallas Fort Worth International Airport,2025-04-27 15:21,N/A,478,1,179,2025-04-27 15:21,2025-04-27 17:20
+Delta,DL 527,John F. Kennedy International Airport,Seattle傍acoma International Airport,2025-04-22 11:30,N/A,427,0,375,2025-04-22 11:30,2025-04-22 14:45
+Alaska,AS 28,John F. Kennedy International Airport,Seattle傍acoma International Airport,2025-04-22 07:20,N/A,457,0,367,2025-04-22 07:20,2025-04-22 10:27
+Alaska,AS 31,John F. Kennedy International Airport,Seattle傍acoma International Airport,2025-04-22 16:30,N/A,457,0,371,2025-04-22 16:30,2025-04-22 19:41
+Alaska,AS 17,John F. Kennedy International Airport,Seattle傍acoma International Airport,2025-04-22 17:29,N/A,457,0,371,2025-04-22 17:29,2025-04-22 20:40
+Alaska,AS 23,John F. Kennedy International Airport,Seattle傍acoma International Airport,2025-04-22 11:30,N/A,547,0,367,2025-04-22 11:30,2025-04-22 14:37
+American,AA 1639,Miami International Airport,Denver International Airport,2025-04-20 20:21,N/A,471,0,270,2025-04-20 20:21,2025-04-20 22:51
+American,AA 1226,Miami International Airport,Dallas Fort Worth International Airport,2025-04-20 05:18,N/A,481,1,197,2025-04-20 05:18,2025-04-20 07:35
+American,AA 2359,Dallas Fort Worth International Airport,Denver International Airport,2025-04-20 08:35,N/A,481,1,132,2025-04-20 08:35,2025-04-20 09:47
+Southwest,WN 1596,Miami International Airport,Nashville International Airport,2025-04-20 05:35,N/A,515,1,145,2025-04-20 05:35,2025-04-20 07:00
+Southwest,WN 3557,Nashville International Airport,Denver International Airport,2025-04-20 07:40,N/A,515,1,175,2025-04-20 07:40,2025-04-20 09:35
+Southwest,WN 149,Miami International Airport,Denver International Airport,2025-04-20 10:50,N/A,631,0,280,2025-04-20 10:50,2025-04-20 13:30
+American,AA 2823,Miami International Airport,Dallas Fort Worth International Airport,2025-04-20 17:15,N/A,659,1,198,2025-04-20 17:15,2025-04-20 19:33
+American,AA 577,Dallas Fort Worth International Airport,Denver International Airport,2025-04-20 20:49,N/A,659,1,129,2025-04-20 20:49,2025-04-20 21:58
+United,UA 2644,Miami International Airport,Denver International Airport,2025-04-20 15:34,N/A,1026,0,281,2025-04-20 15:34,2025-04-20 18:15
+American,AA 2252,Miami International Airport,Tampa International Airport,2025-05-17 07:21,N/A,387,1,63,2025-05-17 07:21,2025-05-17 08:24
+American,AA 1189,Tampa International Airport,Dallas Fort Worth International Airport,2025-05-17 09:47,N/A,387,1,172,2025-05-17 09:47,2025-05-17 11:39
+American,AA 1654,Miami International Airport,Dallas Fort Worth International Airport,2025-05-17 08:25,N/A,457,0,201,2025-05-17 08:25,2025-05-17 10:46
+American,AA 3192,Miami International Airport,Dallas Fort Worth International Airport,2025-05-17 11:21,N/A,457,0,199,2025-05-17 11:21,2025-05-17 13:40
+American,AA 1199,Miami International Airport,Dallas Fort Worth International Airport,2025-05-17 15:42,N/A,457,0,200,2025-05-17 15:42,2025-05-17 18:02
+American,AA 2823,Miami International Airport,Dallas Fort Worth International Airport,2025-05-17 17:25,N/A,457,0,198,2025-05-17 17:25,2025-05-17 19:43
+American,AA 2828,Miami International Airport,Dallas Fort Worth International Airport,2025-05-17 18:25,N/A,457,0,200,2025-05-17 18:25,2025-05-17 20:45
+American,AA 1950,Miami International Airport,Dallas Fort Worth International Airport,2025-05-17 21:26,N/A,503,0,203,2025-05-17 21:26,2025-05-17 23:49
+American,AA 1824,Miami International Airport,Dallas Fort Worth International Airport,2025-05-17 13:40,N/A,533,0,195,2025-05-17 13:40,2025-05-17 15:55
+Delta,DL 639,Los Angeles International Airport,Boston Logan International Airport,2025-04-05 07:55,N/A,387,0,327,2025-04-05 07:55,2025-04-05 16:22
+American,AA 2453,Los Angeles International Airport,Boston Logan International Airport,2025-04-05 22:31,N/A,397,0,329,2025-04-05 22:31,2025-04-06 07:00
+United,UA 2210,Los Angeles International Airport,Boston Logan International Airport,2025-04-05 22:45,N/A,416,0,336,2025-04-05 22:45,2025-04-06 07:21
+American,AA 382,Los Angeles International Airport,Boston Logan International Airport,2025-04-05 14:00,N/A,447,0,328,2025-04-05 14:00,2025-04-05 22:28
+United,UA 1783,Los Angeles International Airport,Boston Logan International Airport,2025-04-05 08:35,N/A,461,0,338,2025-04-05 08:35,2025-04-05 17:13
+JetBlue,B6 688,Los Angeles International Airport,Boston Logan International Airport,2025-04-05 12:55,N/A,475,0,339,2025-04-05 12:55,2025-04-05 21:34
+American,AA 12,Los Angeles International Airport,Boston Logan International Airport,2025-04-05 08:20,N/A,507,0,334,2025-04-05 08:20,2025-04-05 16:54
+United,UA 1975,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 07:30,N/A,217,0,130,2025-06-20 07:30,2025-06-20 10:40
+United,UA 1848,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 10:35,N/A,217,0,127,2025-06-20 10:35,2025-06-20 13:42
+American,AA 2910,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 13:15,N/A,217,0,113,2025-06-20 13:15,2025-06-20 16:08
+United,UA 512,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 14:23,N/A,217,0,129,2025-06-20 14:23,2025-06-20 17:32
+United,UA 617,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 18:15,N/A,217,0,129,2025-06-20 18:15,2025-06-20 21:24
+Delta,DL 2879,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 19:55,N/A,217,0,132,2025-06-20 19:55,2025-06-20 23:07
+American,AA 2779,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 18:25,N/A,237,0,120,2025-06-20 18:25,2025-06-20 21:25
+American,AA 1656,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 07:00,N/A,267,0,117,2025-06-20 07:00,2025-06-20 09:57
+Delta,DL 1247,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 07:10,N/A,312,0,121,2025-06-20 07:10,2025-06-20 10:11
+Delta,DL 1147,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 11:19,N/A,312,0,120,2025-06-20 11:19,2025-06-20 14:19
+Delta,DL 2509,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 13:16,N/A,312,0,132,2025-06-20 13:16,2025-06-20 16:28
+Delta,DL 1178,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 09:30,N/A,392,0,119,2025-06-20 09:30,2025-06-20 12:29
+Delta,DL 2738,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 17:55,N/A,392,0,128,2025-06-20 17:55,2025-06-20 21:03
+Delta,DL 1477,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,2025-06-20 15:35,N/A,492,0,130,2025-06-20 15:35,2025-06-20 18:45
+United,UA 2067,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 07:27,N/A,199,0,147,2025-07-09 07:27,2025-07-09 10:54
+United,UA 721,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 09:15,N/A,199,0,155,2025-07-09 09:15,2025-07-09 12:50
+Delta,DL 2570,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 10:10,N/A,199,0,150,2025-07-09 10:10,2025-07-09 13:40
+United,UA 399,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 10:55,N/A,199,0,157,2025-07-09 10:55,2025-07-09 14:32
+Delta,DL 2679,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 14:10,N/A,199,0,162,2025-07-09 14:10,2025-07-09 17:52
+United,UA 580,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 14:15,N/A,199,0,158,2025-07-09 14:15,2025-07-09 17:53
+United,UA 1677,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 15:47,N/A,199,0,150,2025-07-09 15:47,2025-07-09 19:17
+United,UA 1989,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 18:08,N/A,199,0,146,2025-07-09 18:08,2025-07-09 21:34
+United,UA 2620,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 19:59,N/A,199,0,147,2025-07-09 19:59,2025-07-09 23:26
+United,UA 1779,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 21:25,N/A,199,0,149,2025-07-09 21:25,2025-07-10 00:54
+JetBlue,B6 1012,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 17:51,N/A,203,0,155,2025-07-09 17:51,2025-07-09 21:26
+American,AA 3107,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 18:25,N/A,223,0,152,2025-07-09 18:25,2025-07-09 21:57
+American,AA 2682,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 20:15,N/A,223,0,140,2025-07-09 20:15,2025-07-09 23:35
+American,AA 3710,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 06:00,N/A,233,0,147,2025-07-09 06:00,2025-07-09 09:27
+American,AA 547,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 08:05,N/A,233,0,148,2025-07-09 08:05,2025-07-09 11:33
+American,AA 2837,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 13:15,N/A,233,0,138,2025-07-09 13:15,2025-07-09 16:33
+American,AA 630,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 09:45,N/A,248,0,152,2025-07-09 09:45,2025-07-09 13:17
+American,AA 3160,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 14:45,N/A,248,0,136,2025-07-09 14:45,2025-07-09 18:01
+American,AA 1461,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 16:45,N/A,248,0,137,2025-07-09 16:45,2025-07-09 20:02
+Delta,DL 2646,Chicago O'Hare International Airport,Boston Logan International Airport,2025-07-09 18:50,N/A,248,0,162,2025-07-09 18:50,2025-07-09 22:32
+United,UA 2106,Miami International Airport,Chicago O'Hare International Airport,2025-07-23 16:17,N/A,333,0,207,2025-07-23 16:17,2025-07-23 18:44
+American,AA 1136,Miami International Airport,Chicago O'Hare International Airport,2025-07-23 17:24,N/A,333,0,207,2025-07-23 17:24,2025-07-23 19:51
+American,AA 2194,Miami International Airport,Chicago O'Hare International Airport,2025-07-23 19:50,N/A,333,0,214,2025-07-23 19:50,2025-07-23 22:24
+American,AA 376,Miami International Airport,Chicago O'Hare International Airport,2025-07-23 21:15,N/A,333,0,216,2025-07-23 21:15,2025-07-23 23:51
+American,AA 3067,Miami International Airport,Chicago O'Hare International Airport,2025-07-23 13:55,N/A,380,0,210,2025-07-23 13:55,2025-07-23 16:25
+American,AA 3056,Miami International Airport,Chicago O'Hare International Airport,2025-07-23 15:43,N/A,380,0,207,2025-07-23 15:43,2025-07-23 18:10
+Delta,DL 1261,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 08:05,N/A,416,1,120,2025-07-23 08:05,2025-07-23 10:05
+Delta,DL 1456,Hartsfield-Jackson Atlanta International Airport,Chicago O'Hare International Airport,2025-07-23 11:00,N/A,416,1,129,2025-07-23 11:00,2025-07-23 12:09
+Delta,DL 1249,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,2025-07-23 06:00,N/A,515,1,116,2025-07-23 06:00,2025-07-23 07:56
+Delta,DL 1147,Hartsfield-Jackson Atlanta International Airport,Chicago O'Hare International Airport,2025-07-23 08:55,N/A,515,1,127,2025-07-23 08:55,2025-07-23 10:02
+Delta,DL 2199,Boston Logan International Airport,Denver International Airport,2025-08-08 20:30,N/A,344,0,279,2025-08-08 20:30,2025-08-08 23:09
+United,UA 662,Boston Logan International Airport,Denver International Airport,2025-08-08 09:30,N/A,385,0,274,2025-08-08 09:30,2025-08-08 12:04
+United,UA 497,Boston Logan International Airport,Denver International Airport,2025-08-08 13:22,N/A,386,0,273,2025-08-08 13:22,2025-08-08 15:55
+United,UA 414,Boston Logan International Airport,Denver International Airport,2025-08-08 11:55,N/A,392,0,273,2025-08-08 11:55,2025-08-08 14:28
+United,UA 800,Boston Logan International Airport,Denver International Airport,2025-08-08 16:57,N/A,392,0,289,2025-08-08 16:57,2025-08-08 19:46
+United,UA 647,Boston Logan International Airport,Denver International Airport,2025-08-08 07:30,N/A,428,0,274,2025-08-08 07:30,2025-08-08 10:04
+United,UA 2297,Boston Logan International Airport,Denver International Airport,2025-08-08 15:20,N/A,428,0,284,2025-08-08 15:20,2025-08-08 18:04
+JetBlue,B6 993,Boston Logan International Airport,Denver International Airport,2025-08-08 18:40,N/A,437,0,284,2025-08-08 18:40,2025-08-08 21:24
+Southwest,WN 3535,Boston Logan International Airport,Denver International Airport,2025-08-08 06:40,N/A,467,0,265,2025-08-08 06:40,2025-08-08 09:05
+Southwest,WN 3729,Boston Logan International Airport,Denver International Airport,2025-08-08 17:10,N/A,479,0,275,2025-08-08 17:10,2025-08-08 19:45
+JetBlue,B6 393,Boston Logan International Airport,Denver International Airport,2025-08-08 10:00,N/A,482,0,278,2025-08-08 10:00,2025-08-08 12:38
+Southwest,WN 1425,Boston Logan International Airport,Denver International Airport,2025-08-08 13:45,N/A,507,0,265,2025-08-08 13:45,2025-08-08 16:10
+United,UA 1327,Hartsfield-Jackson Atlanta International Airport,Denver International Airport,2025-03-05 11:11,N/A,321,1,213,2025-03-05 11:11,2025-03-05 12:44
+United,UA 330,Denver International Airport,Los Angeles International Airport,2025-03-05 13:26,N/A,321,1,159,2025-03-05 13:26,2025-03-05 15:05
+Southwest,WN 1754,Hartsfield-Jackson Atlanta International Airport,Dallas Love Field,2025-03-05 09:15,N/A,325,1,150,2025-03-05 09:15,2025-03-05 10:45
+Southwest,WN 1150,Dallas Love Field,Los Angeles International Airport,2025-03-05 11:50,N/A,325,1,215,2025-03-05 11:50,2025-03-05 13:25
+Southwest,WN 556,Hartsfield-Jackson Atlanta International Airport,Phoenix Sky Harbor International Airport,2025-03-05 11:05,N/A,360,1,270,2025-03-05 11:05,2025-03-05 13:35
+Southwest,WN 3825,Phoenix Sky Harbor International Airport,Los Angeles International Airport,2025-03-05 14:30,N/A,360,1,90,2025-03-05 14:30,2025-03-05 15:00
+American,AA 1777,Hartsfield-Jackson Atlanta International Airport,Phoenix Sky Harbor International Airport,2025-03-05 08:01,N/A,361,1,271,2025-03-05 08:01,2025-03-05 10:32
+American,AA 767,Phoenix Sky Harbor International Airport,Los Angeles International Airport,2025-03-05 11:25,N/A,361,1,95,2025-03-05 11:25,2025-03-05 12:00
+American,AA 811,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,2025-03-05 09:30,N/A,361,1,151,2025-03-05 09:30,2025-03-05 11:01
+American,AA 1706,Dallas Fort Worth International Airport,Los Angeles International Airport,2025-03-05 12:19,N/A,361,1,215,2025-03-05 12:19,2025-03-05 13:54
+American,AA 1276,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,2025-03-05 12:16,N/A,361,1,150,2025-03-05 12:16,2025-03-05 13:46
+American,AA 1676,Dallas Fort Worth International Airport,Los Angeles International Airport,2025-03-05 15:00,N/A,361,1,207,2025-03-05 15:00,2025-03-05 16:27
+American,AA 778,Hartsfield-Jackson Atlanta International Airport,Phoenix Sky Harbor International Airport,2025-03-05 18:10,N/A,361,1,262,2025-03-05 18:10,2025-03-05 20:32
+American,AA 820,Phoenix Sky Harbor International Airport,Los Angeles International Airport,2025-03-05 21:20,N/A,361,1,94,2025-03-05 21:20,2025-03-05 21:54
+Southwest,WN 426,Hartsfield-Jackson Atlanta International Airport,Denver International Airport,2025-03-05 18:25,N/A,379,1,210,2025-03-05 18:25,2025-03-05 19:55
+Southwest,WN 2075,Denver International Airport,Los Angeles International Airport,2025-03-05 20:40,N/A,379,1,160,2025-03-05 20:40,2025-03-05 22:20
+Southwest,WN 940,Hartsfield-Jackson Atlanta International Airport,William P. Hobby Airport,2025-03-05 18:30,N/A,447,1,140,2025-03-05 18:30,2025-03-05 19:50
+Southwest,WN 4715,William P. Hobby Airport,Los Angeles International Airport,2025-03-05 20:30,N/A,447,1,230,2025-03-05 20:30,2025-03-05 22:20
+Delta,DL 996,Hartsfield-Jackson Atlanta International Airport,Los Angeles International Airport,2025-03-05 07:30,N/A,469,0,315,2025-03-05 07:30,2025-03-05 09:45
+Delta,DL 898,Hartsfield-Jackson Atlanta International Airport,Los Angeles International Airport,2025-03-05 08:55,N/A,469,0,300,2025-03-05 08:55,2025-03-05 10:55
+Delta,DL 500,Hartsfield-Jackson Atlanta International Airport,Los Angeles International Airport,2025-03-05 18:25,N/A,469,0,315,2025-03-05 18:25,2025-03-05 20:40
+Delta,DL 331,Hartsfield-Jackson Atlanta International Airport,Los Angeles International Airport,2025-03-05 21:05,N/A,469,0,310,2025-03-05 21:05,2025-03-05 23:15
+Delta,DL 501,Hartsfield-Jackson Atlanta International Airport,Los Angeles International Airport,2025-03-05 10:39,N/A,499,0,311,2025-03-05 10:39,2025-03-05 12:50
+United,UA 2258,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 19:07,N/A,245,0,154,2025-06-17 19:07,2025-06-17 22:41
+American,AA 2778,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 09:35,N/A,326,0,159,2025-06-17 09:35,2025-06-17 13:14
+American,AA 1647,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 12:32,N/A,326,0,153,2025-06-17 12:32,2025-06-17 16:05
+American,AA 699,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 14:17,N/A,326,0,158,2025-06-17 14:17,2025-06-17 17:55
+American,AA 2712,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 17:40,N/A,326,0,155,2025-06-17 17:40,2025-06-17 21:15
+United,UA 2200,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 16:17,N/A,337,0,163,2025-06-17 16:17,2025-06-17 20:00
+United,UA 1811,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 07:50,N/A,358,0,161,2025-06-17 07:50,2025-06-17 11:31
+United,UA 1819,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 14:45,N/A,368,0,160,2025-06-17 14:45,2025-06-17 18:25
+Delta,DL 1149,Denver International Airport,Minneapolis亡aint Paul International Airport,2025-06-17 11:40,N/A,372,1,119,2025-06-17 11:40,2025-06-17 14:39
+Delta,DL 1471,Minneapolis亡aint Paul International Airport,Chicago O'Hare International Airport,2025-06-17 15:15,N/A,372,1,95,2025-06-17 15:15,2025-06-17 16:50
+United,UA 1623,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 11:25,N/A,400,0,160,2025-06-17 11:25,2025-06-17 15:05
+United,UA 617,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 13:25,N/A,400,0,162,2025-06-17 13:25,2025-06-17 17:07
+United,UA 2329,Denver International Airport,Chicago O'Hare International Airport,2025-06-17 09:40,N/A,419,0,161,2025-06-17 09:40,2025-06-17 13:21
