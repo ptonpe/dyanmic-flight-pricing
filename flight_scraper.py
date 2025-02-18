@@ -25,8 +25,6 @@ def get_flights_data(api_key, departure_id, arrival_id, outbound_date, return_da
     # use GoogleSearch to get flight data
     search = GoogleSearch(params)
     results = search.get_dict()
-    #print(json.dumps(results, indent=2))
-
     return results
 
 def flight_data_to_csv(flights_data, filename='flights.csv'):
